@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hana 👋 
 
-<!--
-**HaNa-404/HaNa-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Founder & Lead Engineer at **Averick**
+Building scalable full-stack web applications, mobile architectures, and modern software workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Frontend:** React, React Native, JavaScript (ES6+), HTML5, CSS3
+- **Backend & APIs:** Node.js, Custom REST APIs, Application Architecture
+- **Tooling & Deployments:** Git, CI/CD, Cloud Infrastructures
+
+---
+
+### 📌 Current Focus
+- Architecting and launching **Averick**
+- Engineering performant cross-platform mobile experiences
+- Building clean, component-driven UI design systems
